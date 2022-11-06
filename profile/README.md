@@ -1,7 +1,5 @@
 ## Hey, welcome to JS Club 👋
 
-![An illustration showing a variety of differently themed Octocats. Monuments from different cities are indicated in the background like the Space Needle, Berlin Fernsehturm and Transamerica Pyramid.](https://user-images.githubusercontent.com/3369400/133268513-5bfe2f93-4402-42c9-a403-81c9e86934b6.jpeg)
-
 ### 🍿 An interconnected community
 
 JS Club là câu lạc bộ Kỹ sư phần mềm Nhật Bản, nơi hội tụ của những người bạn đam mê lập trình
@@ -25,12 +23,3 @@ JS Club là câu lạc bộ Kỹ sư phần mềm Nhật Bản, nơi hội tụ 
 		<li>By the way, our <a href="https://github.com/github/docs">documentation</a> 🤓 is also open sourced</li>
 	</ul>
 </details>
-
----
-
-<sub>🤫 Psst! You can create your own [organization README](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile).</sub>
-
-<!--
-Made with 🖤
-🙇‍♂️🎤⬇️
--->
